@@ -1,0 +1,4 @@
+id,name,typeid,robotid,deviceid,station_type
+1,LoadLockA,15,14,,0
+2,Dicing,15,14,,0
+3,ISO,15,14,,0
