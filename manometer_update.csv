@@ -1,0 +1,2 @@
+id,name,typeid,subsystemid,deviceid,active_exception_status,output_value_high_trip,output_value_low_trip,overrange_exceeded,reading_valid,sensor_value,status_high_trip,status_low_trip,underrange_exceeded
+3,ISOChmbrBr10TorrGauge,5,2,,0,false,false,false,false,0,false,false,false
